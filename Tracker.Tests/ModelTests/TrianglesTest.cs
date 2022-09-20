@@ -19,5 +19,13 @@ namespace Triangle.Tests
       Assert.AreEqual(false, variableName.IsTriangle(10, 4, 5));
     }
     // Test method will go here
+    [TestMethod]
+    public void checkType_AllSideDifferentLengths_False()
+    {
+      Checker variableName = new Checker();
+      Assert.AreEqual("not a equilateral", variableName.checkType(3,3,4));
+    }
   }
+
+
 }
