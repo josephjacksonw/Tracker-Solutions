@@ -12,6 +12,12 @@ namespace Triangle.Tests
       Checker variableName = new Checker();
       Assert.AreEqual(true, variableName.IsTriangle(3, 4, 5));
     }
+    [TestMethod]
+    public void IsTriangle_AllSidesCanReach_False()
+    {
+      Checker variableName = new Checker();
+      Assert.AreEqual(false, variableName.IsTriangle(10, 4, 5));
+    }
     // Test method will go here
   }
 }
