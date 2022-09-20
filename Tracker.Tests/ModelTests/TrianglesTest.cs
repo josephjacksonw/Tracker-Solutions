@@ -20,10 +20,22 @@ namespace Triangle.Tests
     }
     // Test method will go here
     [TestMethod]
-    public void checkType_AllSideDifferentLengths_False()
+    public void checkType_AllSideDifferentLengths_Equilateral()
     {
       Checker variableName = new Checker();
-      Assert.AreEqual("not a equilateral", variableName.checkType(3,3,4));
+      Assert.AreEqual("This is an equilateral triangle!", variableName.checkType(3,3,3));
+    }
+    [TestMethod]
+    public void checkType_AllSideDifferentLengths_Isosceles()
+    {
+      Checker variableName = new Checker();
+      Assert.AreEqual("This is an isosceles triangle!", variableName.checkType(3,3,4));
+    }
+    [TestMethod]
+    public void checkType_AllSideDifferentLengths_Scalene()
+    {
+      Checker variableName = new Checker();
+      Assert.AreEqual("This is a scalene triangle!", variableName.checkType(3,4,5));
     }
   }
 
