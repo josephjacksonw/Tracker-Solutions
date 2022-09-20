@@ -1,0 +1,12 @@
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\bin\Debug\net5.0\Tracker.deps.json
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\bin\Debug\net5.0\Tracker.dll
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\bin\Debug\net5.0\ref\Tracker.dll
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\bin\Debug\net5.0\Tracker.pdb
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.csproj.AssemblyReference.cache
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.AssemblyInfoInputs.cache
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.AssemblyInfo.cs
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.dll
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\ref\Tracker.dll
+C:\Users\shabr\Desktop\Tracker.Solution\Tracker\obj\Debug\net5.0\Tracker.pdb
